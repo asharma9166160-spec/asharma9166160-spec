@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **BALKRISHNA** 👋 
+# Hi there, I'm **Balkrishna** 👋 
 ### 🚀 Developer | Cloud Enthusiast | UI/UX Designer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vcenter=true&width=550&lines=Full-Stack+Web+Development;Cloud+%26+DevOps+Architecture;Algorithmic+Problem+Solving;UI%2FUX+Design+%26+Creatives)](https://git.io/typing-svg)
@@ -77,34 +77,20 @@
 
 ---
 
-## 📊 Animated GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Detailed GitHub Stats with Rank, All Commits & PRs -->
-<img src="https://github-readme-stats.vercel.app/api?username=asharma9166160-spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="195" alt="detailed stats card" />
+  <img src="https://github-readme-stats.shion.dev/api?username=asharma9166160-spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asharma9166160-spec&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 
-<!-- Top Languages with Donut & Animations -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharma9166160-spec&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" height="195" alt="top languages card" />
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=asharma9166160-spec&theme=radical&hide_border=true" width="97%" alt="Streak Stats" />
 
-<!-- Animated Contribution Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asharma9166160-spec&theme=radical&hide_border=true&border_radius=10" alt="streak stats" />
+  <br/><br/>
 
-<br/><br/>
-
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asharma9166160-spec&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
-
-<br/><br/>
-
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asharma9166160-spec/asharma9166160-spec/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asharma9166160-spec/asharma9166160-spec/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/asharma9166160-spec/asharma9166160-spec/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asharma9166160-spec&theme=react-dark&hide_border=true&area=true" width="97%" alt="Activity Graph" />
 
 </div>
 
