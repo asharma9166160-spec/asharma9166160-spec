@@ -3,7 +3,7 @@
 # Hi there, I'm **BALKRISHNA** 👋 
 ### 🚀 Developer | Cloud Enthusiast | UI/UX Designer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4CC&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;Cloud+%26+DevOps+Architecture;Algorithmic+Problem+Solving;UI%2FUX+Design+%26+Creatives)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vcenter=true&width=550&lines=Full-Stack+Web+Development;Cloud+%26+DevOps+Architecture;Algorithmic+Problem+Solving;UI%2FUX+Design+%26+Creatives)](https://git.io/typing-svg)
 
 ---
 
@@ -77,16 +77,34 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Animated GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asharma9166160-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharma9166160-spec&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages card" />
+<!-- Detailed GitHub Stats with Rank, All Commits & PRs -->
+<img src="https://github-readme-stats.vercel.app/api?username=asharma9166160-spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="195" alt="detailed stats card" />
+
+<!-- Top Languages with Donut & Animations -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharma9166160-spec&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" height="195" alt="top languages card" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asharma9166160-spec&theme=tokyonight&hide_border=true" alt="streak stats" />
+<!-- Animated Contribution Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asharma9166160-spec&theme=radical&hide_border=true&border_radius=10" alt="streak stats" />
+
+<br/><br/>
+
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asharma9166160-spec&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
+
+<br/><br/>
+
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asharma9166160-spec/asharma9166160-spec/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asharma9166160-spec/asharma9166160-spec/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/asharma9166160-spec/asharma9166160-spec/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -95,6 +113,6 @@
 <div align="center">
 
 ### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=asharma9166160-spec&color=00c4cc&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=asharma9166160-spec&color=ff3366&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
